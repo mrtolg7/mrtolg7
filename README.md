@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.mertolgun.dev/"><img src="https://img.shields.io/badge/Portfolio-mertolgun.dev-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/mert-olgun-464524362/"><img src="https://img.shields.io/badge/LinkedIn-Mert%20Olgun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mrtolgisme@hotmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mrtolgisme@hotmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJtMjIgN2wtOC45OTEgNS43MjdhMiAyIDAgMCAxLTIuMDA5IDBMMiA3Ii8+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB4PSIyIiB5PSI0IiByeD0iMiIvPjwvZz48L3N2Zz4=" alt="Email"/></a>
   <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mrtolg7.mrtolg7&left_text=profile%20views&right_color=%238b5cf6" alt="Profile views"/>
 </p>
