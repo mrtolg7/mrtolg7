@@ -5,9 +5,9 @@
 <p align="center">
   <a href="https://www.mertolgun.dev/"><img src="https://img.shields.io/badge/Portfolio-mertolgun.dev-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/mert-olgun-464524362/"><img src="https://img.shields.io/badge/LinkedIn-Mert%20Olgun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mrtolgisme@hotmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mrtolgisme@hotmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=mrtolg7&style=flat-square&color=8b5cf6&label=profile+views" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrtolg7.mrtolg7&left_text=profile%20views&right_color=%238b5cf6" alt="Profile views"/>
 </p>
 
 <h3><img src="https://api.iconify.design/lucide/user-round.svg?color=%238b5cf6" width="22" align="top" alt=""/>&nbsp; About me</h3>
