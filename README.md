@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://www.mertolgun.dev/"><img src="https://img.shields.io/badge/Portfolio-mertolgun.dev-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/mert-olgun-64b61b21a"><img src="https://img.shields.io/badge/LinkedIn-Mert%20Olgun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mrtolgisme@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/mert-olgun-464524362/"><img src="https://img.shields.io/badge/LinkedIn-Mert%20Olgun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mrtolgisme@hotmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=mrtolg7&style=flat-square&color=8b5cf6&label=profile+views" alt="Profile views"/>
 </p>
@@ -32,7 +32,7 @@ I'm a **final-year Computer Science student** at Dokuz Eylül University. I like
 - **Experience:** I built a management system that a real language school uses every day
 - **Skills:** React and TypeScript on the frontend, ASP.NET Core and Node.js on the backend, PostgreSQL, and AI tools with RAG
 - **How I work:** I first understand the problem, then build the full product from start to finish
-- **Contact:** [send me an email](mailto:mrtolgisme@gmail.com) or [visit my portfolio](https://www.mertolgun.dev/). I'm happy to show you the private code
+- **Contact:** [send me an email](mailto:mrtolgisme@hotmail.com) or [visit my portfolio](https://www.mertolgun.dev/). I'm happy to show you the private code
 
 </details>
 
@@ -54,7 +54,7 @@ I'm a **final-year Computer Science student** at Dokuz Eylül University. I like
 
 - Scroll down to see my first small projects and a snake that eats my contribution graph
 - Every commit on this profile was powered by coffee (yes, the ∞ above is real)
-- You found the secret part! [Say hello](mailto:mrtolgisme@gmail.com?subject=I%20found%20the%20easter%20egg) and tell me how you found it
+- You found the secret part! [Say hello](mailto:mrtolgisme@hotmail.com?subject=I%20found%20the%20easter%20egg) and tell me how you found it
 
 </details>
 
@@ -185,5 +185,5 @@ I'm a **final-year Computer Science student** at Dokuz Eylül University. I like
 </p>
 
 <p align="center">
-  <a href="mailto:mrtolgisme@gmail.com"><img src="assets/footer.svg" width="100%" alt="Thanks for scrolling this far — say hi"/></a>
+  <a href="mailto:mrtolgisme@hotmail.com"><img src="assets/footer.svg" width="100%" alt="Thanks for scrolling this far — say hi"/></a>
 </p>
