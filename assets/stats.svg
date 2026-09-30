@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="30+ projects shipped, 10+ languages and stacks, 1 system in daily production use, infinite cups of coffee">
+  <title>30+ projects · 10+ languages &amp; stacks · 1 system in production · ∞ cups of coffee</title>
+  <defs>
+    <linearGradient id="tileBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.9" cy="0" r="0.9">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="num" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <g id="tile">
+      <rect x="0.5" y="0.5" width="279" height="169" rx="18" fill="url(#tileBg)" stroke="#30363d"/>
+      <rect x="0.5" y="0.5" width="279" height="169" rx="18" fill="url(#glow)"/>
+      <rect x="40" y="0" width="200" height="1.5" fill="url(#edge)"/>
+      <circle cx="44" cy="46" r="24" fill="#8b5cf6" fill-opacity="0.16" stroke="#8b5cf6" stroke-opacity="0.4"/>
+    </g>
+  </defs>
+  <style>
+    .tile { opacity: 0; animation: rise 0.8s cubic-bezier(.2,.8,.2,1) forwards; }
+    .t2 { animation-delay: 0.15s; } .t3 { animation-delay: 0.3s; } .t4 { animation-delay: 0.45s; }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+    .n { font: 800 52px 'Segoe UI', -apple-system, Ubuntu, 'Helvetica Neue', Arial, sans-serif; letter-spacing: -1px; }
+    .lbl { font: 500 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #94a3b8; }
+    .ic { fill: none; stroke: #c4b5fd; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .deco { fill: none; stroke: #8b5cf6; stroke-opacity: 0.22; stroke-width: 1.4; stroke-linecap: round; stroke-linejoin: round; }
+    .inf { animation: pulse 2.6s ease-in-out infinite; }
+    @keyframes pulse { 50% { opacity: 0.55; } }
+    .steam { fill: none; stroke: #c4b5fd; stroke-width: 2.5; stroke-linecap: round; opacity: 0; animation: steam 2.4s ease-in-out infinite; }
+    .st2 { animation-delay: 0.8s; } .st3 { animation-delay: 1.6s; }
+    @keyframes steam { 0% { opacity: 0; transform: translateY(8px); } 40% { opacity: 0.8; } 100% { opacity: 0; transform: translateY(-12px); } }
+    .led { animation: led 1.6s ease-in-out infinite; }
+    @keyframes led { 50% { fill: #14532d; } }
+  </style>
+
+  <!-- 30+ projects -->
+  <g class="tile t1"><g transform="translate(10 10)">
+    <use href="#tile"/>
+    <svg x="31" y="33" width="26" height="26" viewBox="0 0 24 24"><g class="ic"><path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09"/><path d="M9 12a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.4 22.4 0 0 1-4 2z"/><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 .05 5 .05"/></g></svg>
+    <svg x="178" y="18" width="84" height="84" viewBox="0 0 24 24"><g class="deco"><path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09"/><path d="M9 12a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.4 22.4 0 0 1-4 2z"/><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 .05 5 .05"/></g></svg>
+    <text class="n" x="24" y="124" fill="url(#num)">30+</text>
+    <text class="lbl" x="26" y="152">projects shipped</text>
+  </g></g>
+
+  <!-- 10+ languages -->
+  <g class="tile t2"><g transform="translate(310 10)">
+    <use href="#tile"/>
+    <svg x="31" y="33" width="26" height="26" viewBox="0 0 24 24"><g class="ic"><path d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z"/><path d="M2 12a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 12"/><path d="M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 17"/></g></svg>
+    <svg x="178" y="18" width="84" height="84" viewBox="0 0 24 24"><g class="deco"><path d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z"/><path d="M2 12a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 12"/><path d="M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 17"/></g></svg>
+    <text class="n" x="24" y="124" fill="url(#num)">10+</text>
+    <text class="lbl" x="26" y="152">languages &amp; stacks</text>
+  </g></g>
+
+  <!-- 1 system in production -->
+  <g class="tile t3"><g transform="translate(610 10)">
+    <use href="#tile"/>
+    <svg x="31" y="33" width="26" height="26" viewBox="0 0 24 24"><g class="ic"><rect width="20" height="8" x="2" y="2" rx="2"/><rect width="20" height="8" x="2" y="14" rx="2"/><path d="M6 6h.01M6 18h.01"/></g></svg>
+    <svg x="178" y="18" width="84" height="84" viewBox="0 0 24 24"><g class="deco"><rect width="20" height="8" x="2" y="2" rx="2"/><rect width="20" height="8" x="2" y="14" rx="2"/></g>
+      <circle class="led" cx="6" cy="6" r="1.1" fill="#22c55e"/><circle class="led" cx="6" cy="18" r="1.1" fill="#22c55e" style="animation-delay:.8s"/></svg>
+    <text class="n" x="24" y="124" fill="url(#num)">1</text>
+    <text class="lbl" x="26" y="152">system in daily production</text>
+  </g></g>
+
+  <!-- ∞ coffee -->
+  <g class="tile t4"><g transform="translate(910 10)">
+    <use href="#tile"/>
+    <svg x="31" y="33" width="26" height="26" viewBox="0 0 24 24"><path class="ic" d="M10 2v2m4-2v2m2 4a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1M6 2v2"/></svg>
+    <svg x="178" y="30" width="84" height="84" viewBox="0 0 24 24"><path class="deco" d="M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1"/></svg>
+    <path class="steam" d="M200 52 q6 -7 0 -14 q-6 -7 0 -14"/>
+    <path class="steam st2" d="M214 52 q6 -7 0 -14 q-6 -7 0 -14"/>
+    <path class="steam st3" d="M228 52 q6 -7 0 -14 q-6 -7 0 -14"/>
+    <text class="n inf" x="24" y="124" fill="url(#num)">∞</text>
+    <text class="lbl" x="26" y="152">cups of coffee (and counting)</text>
+  </g></g>
+</svg>

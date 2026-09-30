@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900" height="440" role="img" aria-label="Terminal: whoami, now and fun facts about Mert Olgun">
+  <title>whoami — Mert Olgun</title>
+  <style>
+    text { font: 15.5px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #e2e8f0; white-space: pre; }
+    .title { font-size: 13px; fill: #94a3b8; }
+    .user { fill: #22c55e; font-weight: 700; }
+    .path { fill: #22d3ee; font-weight: 700; }
+    .cmd { fill: #f8fafc; }
+    .dim { fill: #94a3b8; }
+    .accent { fill: #c4b5fd; }
+    .star { fill: #facc15; }
+    .arrow { fill: #22d3ee; }
+    .l { opacity: 0; animation: line 20s ease-out infinite both; }
+    @keyframes line {
+      0% { opacity: 0; transform: translateX(-8px); }
+      3% { opacity: 1; transform: translateX(0); }
+      90% { opacity: 1; transform: translateX(0); }
+      95%, 100% { opacity: 0; transform: translateX(0); }
+    }
+    .d1 { animation-delay: 0.2s; } .d2 { animation-delay: 0.8s; } .d3 { animation-delay: 1.8s; }
+    .d4 { animation-delay: 2.4s; } .d5 { animation-delay: 2.9s; } .d6 { animation-delay: 3.9s; }
+    .d7 { animation-delay: 4.5s; } .d8 { animation-delay: 5.1s; } .d9 { animation-delay: 5.7s; }
+    .d10 { animation-delay: 6.3s; } .d11 { animation-delay: 7.2s; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect x="0.5" y="0.5" width="899" height="439" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <path d="M14.5 0.5h871a14 14 0 0 1 14 14v25.5H0.5V14.5a14 14 0 0 1 14-14z" fill="#161b22"/>
+  <line x1="0.5" y1="40" x2="899.5" y2="40" stroke="#30363d"/>
+  <circle cx="24" cy="20" r="6.5" fill="#ff5f57"/>
+  <circle cx="46" cy="20" r="6.5" fill="#febc2e"/>
+  <circle cx="68" cy="20" r="6.5" fill="#28c840"/>
+  <text class="title" x="450" y="25" text-anchor="middle">mert@deu: ~ — zsh</text>
+
+  <g transform="translate(28 78)">
+    <text class="l d1" y="0"><tspan class="user">mert@deu</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan><tspan class="cmd">whoami</tspan></text>
+    <text class="l d2" y="26"><tspan class="accent">Mert Olgun</tspan><tspan class="dim"> — final-year CS student @ Dokuz Eylül University</tspan></text>
+
+    <text class="l d3" y="66"><tspan class="user">mert@deu</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan><tspan class="cmd">cat now.txt</tspan></text>
+    <text class="l d4" y="92"><tspan class="arrow">→ </tspan>building software for schools and public services</text>
+    <text class="l d5" y="118"><tspan class="arrow">→ </tspan>looking for internships and junior full-stack roles</text>
+
+    <text class="l d6" y="158"><tspan class="user">mert@deu</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan><tspan class="cmd">cat fun_facts.txt</tspan></text>
+    <text class="l d7" y="184"><tspan class="star">★ </tspan>I run on coffee and work best near deadlines</text>
+    <text class="l d8" y="210"><tspan class="star">★ </tspan>VS Code is my home — I have way too many extensions</text>
+    <text class="l d9" y="236"><tspan class="star">★ </tspan>A "quick refactor" is never quick</text>
+    <text class="l d10" y="262"><tspan class="star">★ </tspan>I read the error message carefully… after the third try</text>
+
+    <text class="l d11" y="302"><tspan class="user">mert@deu</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan><tspan class="dim">sudo make coffee</tspan></text>
+    <g class="l d11">
+      <text y="328"><tspan class="dim">[sudo] brewing… </tspan><tspan class="accent">done.</tspan><tspan class="dim"> Ready to build something together.</tspan></text>
+      <rect class="cursor" x="0" y="344" width="10" height="20" fill="#22d3ee"/>
+    </g>
+  </g>
+</svg>
